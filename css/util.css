@@ -238,7 +238,7 @@ a {
 .tag {
   width: fit-content;
   font-size: 0.55rem;
-  border-radius: 25%;
+  border-radius: 15px;
   background-color: #ec9937;
   color: white;
   display: inline-block;
