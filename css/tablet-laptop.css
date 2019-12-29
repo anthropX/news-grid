@@ -1,0 +1,17 @@
+/* Articles sections */
+
+main + section {
+  margin: 0 !important;
+  width: 100vw !important;
+}
+
+.grid {
+  grid-template-columns: 1fr 1fr !important;
+}
+
+.grid-item {
+  height: 26rem;
+  flex-direction: column !important;
+  grid-row: initial !important;
+  grid-column: initial !important;
+}

@@ -1,0 +1,10 @@
+/* Footer */
+#footer-content {
+  grid-template-columns: 1fr 1fr;
+  padding-bottom:2rem;
+}
+
+#footer-content > div {
+  height: fit-content;
+}
+
